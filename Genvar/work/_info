@@ -1,0 +1,131 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/abhya/Downloads/GitHub/Verilog/Genvar
+vale_4bit
+!s110 1791903084
+!i10b 1
+!s100 _K@1<0KGY9bIizL[Z0iZ41
+Ib5?i:n[0B;DMPISSdUm>T0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791903082
+Z2 8alu.v
+Z3 Falu.v
+Z4 L0 24
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1791903084.000000
+Z6 !s107 alu.v|
+Z7 !s90 -reportprogress|300|alu.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+valu_1bit
+R1
+r1
+!s85 0
+!i10b 1
+!s100 STVd;H<JFnjMo^1RDVol`2
+IB?DhW8QDRd[^0L8eeD3L>1
+R0
+Z10 w1791903183
+R2
+R3
+L0 3
+R5
+31
+Z11 !s108 1791903185.000000
+R6
+R7
+!i113 0
+R8
+R9
+valu_4bit
+R1
+r1
+!s85 0
+!i10b 1
+!s100 `fn]@cLAESIj2ALlb1]gT3
+IcF?a[[B^dK9PH7R8?;SNe1
+R0
+R10
+R2
+R3
+R4
+R5
+31
+R11
+R6
+R7
+!i113 0
+R8
+R9
+vfull_adder
+R1
+r1
+!s85 0
+!i10b 1
+!s100 IhXEd[UaQQNQiE4]A9ZK51
+IN37I7SE__AaLMlBJJNAnR2
+R0
+Z12 w1791899577
+Z13 8full_adder.v
+Z14 Ffull_adder.v
+L0 4
+R5
+31
+Z15 !s108 1791899579.000000
+Z16 !s107 full_adder.v|
+Z17 !s90 -reportprogress|300|full_adder.v|
+!i113 0
+R8
+R9
+vfull_adder_nbit
+R1
+r1
+!s85 0
+!i10b 1
+!s100 if;B?<BTCUMD=CJmm5GST0
+I;^9YS2Fl<=XP>4E^9kIU93
+R0
+R12
+R13
+R14
+L0 11
+R5
+31
+R15
+R16
+R17
+!i113 0
+R8
+R9
+vtop
+R1
+r1
+!s85 0
+!i10b 1
+!s100 i2IaEaj7<0To?PGlh0PaU2
+InOd^dGMHR0nm_E3T8YeW>2
+R0
+R10
+R2
+R3
+L0 43
+R5
+31
+R11
+R6
+R7
+!i113 0
+R8
+R9

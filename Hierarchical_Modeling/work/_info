@@ -1,0 +1,110 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/abhya/Downloads/GitHub/Verilog/Hierarchical_Modeling
+vcomp_1bit
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 ;QzfA>BhZZEi>M?dakQY;0
+I;?^_WFT:_=O=X]OckGEEU3
+R0
+Z2 w1791880227
+Z3 8comp_4bit.v
+Z4 Fcomp_4bit.v
+L0 4
+Z5 OL;L;10.7c;67
+31
+Z6 !s108 1791880232.000000
+Z7 !s107 comp_4bit.v|
+Z8 !s90 -reportprogress|300|comp_4bit.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vcomp_4bit
+R1
+r1
+!s85 0
+!i10b 1
+!s100 C_Zj[OYo4K^Xlin>_lEUa2
+I2EL`Z>WMH1amGNTf@Ukg40
+R0
+R2
+R3
+R4
+L0 14
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+vfull_adder
+R1
+r1
+!s85 0
+!i10b 1
+!s100 DX05gCoaQhBS4TZIgU8@a1
+IBI[i1Ko>Z6I5EKZP3QkEi1
+R0
+Z11 w1791877655
+Z12 8full_adder_4bit.v
+Z13 Ffull_adder_4bit.v
+L0 4
+R5
+31
+Z14 !s108 1791877657.000000
+Z15 !s107 full_adder_4bit.v|
+Z16 !s90 -reportprogress|300|full_adder_4bit.v|
+!i113 0
+R9
+R10
+vfull_adder_4bit
+R1
+r1
+!s85 0
+!i10b 1
+!s100 DgXG5a36dRDZjVoXmLXE42
+IMR>eU7B@o_4[3JllFkm?:2
+R0
+R11
+R12
+R13
+L0 12
+R5
+31
+R14
+R15
+R16
+!i113 0
+R9
+R10
+vtop
+R1
+r1
+!s85 0
+!i10b 1
+!s100 iR>W8_?S4fl9_jzDgn<mN1
+IU1Z>DCK4W`3zVkimGV?de3
+R0
+R2
+R3
+R4
+L0 32
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10

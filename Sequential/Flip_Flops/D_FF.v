@@ -1,59 +1,55 @@
-//Design D_flip flop in 3 modeling style
-//Structural Model
-module  d_ff(clk,d,q,qb);
-	input clk,d;
-	output q,qb;
-	wire nd,s,r;
-	nor(nd,d);
-	nand(s,d,clk);
-	nand(r,nd,clk);
-	nand(q,s,qb);
-	nand(qb,c,q);
-endmodule
-
-//Dataflow Model
-module d_ff(clk,d,q);
-	input clk,d;
+module d_ff(clk,rst,d,q);
+	input clk,rst,d;
 	output reg q;
-	always@(*)begin
-		if(clk)
-			q=d;
+
+	always @(posedge clk) begin
+		if(rst==1)
+			q<=0;
+		else
+			q<=d;
 	end
 endmodule
 
-//Behavioral Model
-module d_ff(clk,d,q);
-	input clk,d;
-	output q;
-	always@(posedge clk)begin
-		q<=d;
-	end
-endmodule
 
-//TestBench
+//TB
 module top;
 	reg clk,rst,d;
 	wire q;
-	d_ff dut(.clk(clk),
-			 .rst(rst),
-			 .d(d),
-			 .q(q));
+	d_ff dut(clk,rst,d,q);
+
 	initial begin
 		clk=0;
 		forever #5 clk=~clk;
-	end 
+	end
+
 	initial begin
 		rst=1;
-		repeat(2)@(posedge clk)
+		d=0;
+		repeat (2)@(posedge clk)
 		rst=0;
 	end
+
 	initial begin
-		repeat(10)begin
-			@(negedge clk);
+		repeat (10) begin
 			d=$random;
-			@(posedge clk);
-			$display("Time=%t CLK=%b RST=%b D=%b Q=%b",$time,clk,rst,d,q);
-		end
-		$finish;
+			#10;
+			$display("Time%0t CLK=%b RST=%0b D=%0b Q=%0b",$time,clk,rst,d,q);
+		end	
+	end
+	initial begin
+		#100;
+		$finish();
 	end
 endmodule
+
+/*output
+ Time10 CLK=1 RST=0 D=0 Q=0
+# Time20 CLK=1 RST=0 D=1 Q=1
+# Time30 CLK=1 RST=0 D=1 Q=1
+# Time40 CLK=1 RST=0 D=1 Q=1
+# Time50 CLK=1 RST=0 D=1 Q=1
+# Time60 CLK=1 RST=0 D=1 Q=1
+# Time70 CLK=1 RST=0 D=1 Q=1
+# Time80 CLK=1 RST=0 D=0 Q=0
+# Time90 CLK=1 RST=0 D=1 Q=1
+*/

@@ -5,8 +5,8 @@ module top;
 		clk=0;
 	end
 	always #5 clk=~clk;
-	always #10 clk=~clk;//20ns clock period
-	always #25 clk=~clk;//50ns clock period
+//	always #10 clk=~clk;//20ns clock period
+//	always #25 clk=~clk;//50ns clock period
 endmodule
 
 /*

@@ -1,0 +1,110 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/abhya/OneDrive/Desktop/GitHub/Verilog/Sequential/Flip_Flops
+vd_ff
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 Pj[AYVZkDVFKk7FBb0IA_1
+IjR79nhZ^9LnLP]7j7Snh]0
+R0
+w1793014869
+8D_FF.v
+FD_FF.v
+L0 1
+Z2 OL;L;10.7c;67
+31
+!s108 1793014880.000000
+!s107 D_FF.v|
+!s90 -reportprogress|300|D_FF.v|
+!i113 0
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vjk_ff
+R1
+r1
+!s85 0
+!i10b 1
+!s100 a^6iAbAb8RjRAhC7<iICB1
+IM4;Y:2oc04B3oTdaRz3?o3
+R0
+w1793017534
+8jk_ff.v
+Fjk_ff.v
+L0 1
+R2
+31
+!s108 1793017537.000000
+!s107 jk_ff.v|
+!s90 -reportprogress|300|jk_ff.v|
+!i113 0
+R3
+R4
+vsr_ff
+R1
+r1
+!s85 0
+!i10b 1
+!s100 Z=6>l3ncfKf?TUhVJkLaJ0
+I>_W7HHTL?d7dd:I@<gNL32
+R0
+w1793016121
+8sr_ff.v
+Fsr_ff.v
+L0 1
+R2
+31
+!s108 1793016127.000000
+!s107 sr_ff.v|
+!s90 -reportprogress|300|sr_ff.v|
+!i113 0
+R3
+R4
+vt_ff
+R1
+r1
+!s85 0
+!i10b 1
+!s100 ^g;McFf3`Y3o8gUVbk[4H1
+I0iW22zoL1o_iJdhIXcABK0
+R0
+Z5 w1793020500
+Z6 8t_ff.v
+Z7 Ft_ff.v
+L0 1
+R2
+31
+Z8 !s108 1793020502.000000
+Z9 !s107 t_ff.v|
+Z10 !s90 -reportprogress|300|t_ff.v|
+!i113 0
+R3
+R4
+vtop
+R1
+r1
+!s85 0
+!i10b 1
+!s100 hCFR?f1ND<Yn^;jgJ58T:3
+IY;IV5GAES>;PXH7jNg[Nj1
+R0
+R5
+R6
+R7
+L0 17
+R2
+31
+R8
+R9
+R10
+!i113 0
+R3
+R4

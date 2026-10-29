@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/abhya/Downloads/GitHub/Verilog/Compiler_directives
+vtop
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 E0j:L[d2`Of[5gK68bP3V3
+IejzoLzLKk67@@Qg]Ekk`X3
+R0
+w1793278306
+8example3.v
+Fexample3.v
+L0 1
+OL;L;10.7c;67
+31
+!s108 1793278338.000000
+!s107 example3.v|
+!s90 -reportprogress|300|example3.v|+define+DATAFLOW|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 +define+DATAFLOW -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0

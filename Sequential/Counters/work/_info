@@ -1,0 +1,150 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/abhya/Downloads/GitHub/Verilog/Sequential/Counters
+vcounter_3bit
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 RBz=aD`V?z]4ML@GSJ<>31
+IQBVTPazd6Nh0W_g;mnHPL0
+R0
+w1794213651
+8up_counter_3bit.v
+Fup_counter_3bit.v
+L0 1
+Z2 OL;L;10.7c;67
+31
+!s108 1794213653.000000
+!s107 up_counter_3bit.v|
+!s90 -reportprogress|300|up_counter_3bit.v|
+!i113 0
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vdown_counter_3bit
+R1
+r1
+!s85 0
+!i10b 1
+!s100 _=maDce<17^;PA:XO05PV2
+I32Tb0KJB3YJGdXD0hBQVW1
+R0
+w1794214522
+8down_counter_3bit.v
+Fdown_counter_3bit.v
+L0 1
+R2
+31
+!s108 1794221041.000000
+!s107 down_counter_3bit.v|
+!s90 -reportprogress|300|down_counter_3bit.v|
+!i113 0
+R3
+R4
+vjohnson_counter
+R1
+r1
+!s85 0
+!i10b 1
+!s100 1f;@Bej8MFAco6ZGjQTFg1
+InWd6hQdf;2mbj>>aC`kGi0
+R0
+Z5 w1794291665
+Z6 8johnson_counter.v
+Z7 Fjohnson_counter.v
+L0 1
+R2
+31
+Z8 !s108 1794291667.000000
+Z9 !s107 johnson_counter.v|
+Z10 !s90 -reportprogress|300|johnson_counter.v|
+!i113 0
+R3
+R4
+vmod_n
+R1
+r1
+!s85 0
+!i10b 1
+!s100 z`lJ9aj>TBdW5k^X6nTm<0
+I6J7`7bCJQJc=<liZ;_65C0
+R0
+w1794225191
+8mod_n_counter.v
+Fmod_n_counter.v
+L0 1
+R2
+31
+!s108 1794225195.000000
+!s107 mod_n_counter.v|
+!s90 -reportprogress|300|mod_n_counter.v|
+!i113 0
+R3
+R4
+vring_counter
+R1
+r1
+!s85 0
+!i10b 1
+!s100 ofBmPnS<AEgK<Vkk8=Hfc2
+I4bdd<Rd:fL08<@gV`X^^20
+R0
+w1794291038
+8ring_counter.v
+Fring_counter.v
+L0 1
+R2
+31
+!s108 1794291041.000000
+!s107 ring_counter.v|
+!s90 -reportprogress|300|ring_counter.v|
+!i113 0
+R3
+R4
+vtop
+R1
+r1
+!s85 0
+!i10b 1
+!s100 9SR]bVIRDK6;3KhST`aZX3
+IGohL6fdRAj=TlXZNDBcE_0
+R0
+R5
+R6
+R7
+L0 14
+R2
+31
+R8
+R9
+R10
+!i113 0
+R3
+R4
+vup_down_counter
+R1
+r1
+!s85 0
+!i10b 1
+!s100 gMcQOLS2a>^`hDgN==j:k0
+I_oS=C5coAEelD?EBA=KMK2
+R0
+w1794221719
+8up_down_counter.v
+Fup_down_counter.v
+L0 1
+R2
+31
+!s108 1794221724.000000
+!s107 up_down_counter.v|
+!s90 -reportprogress|300|up_down_counter.v|
+!i113 0
+R3
+R4
